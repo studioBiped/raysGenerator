@@ -7,7 +7,7 @@ var floorR0 = 360;
 
 
 var diverge = 10;
-var rayNum = 40;
+var rayNum = 20;
 var dotDist = 8;
 
 var frameArr = [];
