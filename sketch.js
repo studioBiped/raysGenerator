@@ -17,7 +17,7 @@ var exportArr = [];
 var exportCounter = 0;
 
 function preload() {
-  bg = loadImage('ref1.jpg', loadImgSuccess);
+  bg = loadImage('ref.jpg', loadImgSuccess);
 }
 
 function loadImgSuccess() {
